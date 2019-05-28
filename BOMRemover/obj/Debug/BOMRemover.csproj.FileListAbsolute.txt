@@ -1,0 +1,6 @@
+C:\Users\PCRider\source\repos\BOMRemover\BOMRemover\bin\Debug\BOMRemover.exe.config
+C:\Users\PCRider\source\repos\BOMRemover\BOMRemover\bin\Debug\BOMRemover.exe
+C:\Users\PCRider\source\repos\BOMRemover\BOMRemover\bin\Debug\BOMRemover.pdb
+C:\Users\PCRider\source\repos\BOMRemover\BOMRemover\obj\Debug\BOMRemover.csproj.CoreCompileInputs.cache
+C:\Users\PCRider\source\repos\BOMRemover\BOMRemover\obj\Debug\BOMRemover.exe
+C:\Users\PCRider\source\repos\BOMRemover\BOMRemover\obj\Debug\BOMRemover.pdb
